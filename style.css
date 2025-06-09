@@ -160,3 +160,7 @@ main {
 .project-text {
     max-width: 50%; /* Adjust the width of the text container */
 }
+
+<div class="button-container">
+    <a href="link-to-your-project.html" class="button">View Project</a>
+</div>
